@@ -1,5 +1,3 @@
----
-
 # 🎯 Ball-Tracker
 
 **A real-time ball tracking application using OpenCV and Python, with options to use a webcam or mobile camera.**
@@ -49,7 +47,7 @@ pip install -r requirements.txt
 
 ## ⚙️ Configuration
 
-You can customize the color range for tracking:
+You can customize the color range for tracking by modifying the `GREEN_LOWER` and `GREEN_UPPER` variables in the `main.py` file:
 
 ```python
 GREEN_LOWER = (25, 50, 50)
