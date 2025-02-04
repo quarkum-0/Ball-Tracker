@@ -12,7 +12,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/quarkum-0/Ball-Tracker.git
+git clone https://github.com/imshrishk/Ball-Tracker.git
 cd Ball-Tracker
 ```
 
